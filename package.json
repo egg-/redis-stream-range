@@ -1,0 +1,26 @@
+{
+  "name": "redis-stream-range",
+  "version": "0.1.0",
+  "author": {
+    "name": "egg",
+    "email": "i@egg.pe.kr"
+  },
+  "description": "Return a node.js api readable stream from list elements.",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/egg-/redis-stream-range.git"
+  },
+  "keywords": [
+    "redis",
+    "stream",
+    "range",
+    "lrange"
+  ],
+  "license": "MIT",
+  "main": "./index",
+  "devDependencies": {
+    "event-stream": "^3.3.1"
+  },
+  "dependencies": {}
+}
